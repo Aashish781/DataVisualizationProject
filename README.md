@@ -30,3 +30,6 @@ The box plot below shows the variation in petroleum consumption year-wise. It sh
 * The long upper whisker in the plot means consumption varies amongst the most positive quartile group for all the years.<br/>
 
 ![alt text](https://github.com/Aashish781/DataVisualizationProject/blob/main/Plots/Box.png)
+
+Reference:<br/><br/>
+[Petroleum Consumption Dataset - https://data.gov.in/resource/state-wise-consumption-total-petroleum-products-2014-15-2020-21](https://data.gov.in/resource/state-wise-consumption-total-petroleum-products-2014-15-2020-21)
